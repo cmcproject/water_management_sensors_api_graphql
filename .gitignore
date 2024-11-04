@@ -1,0 +1,25 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/.prepl-port
+/.cpcache
+
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+# Temporary, to be removed
+#migrations/
