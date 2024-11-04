@@ -43,3 +43,10 @@ The general structure should be:
 $ pip install -r requirements/dev.txt
 
 $ pytest --create-db
+
+# Project improvements
+
+- add Makefile (done)
+- add pre-commit checks (done)
+- add Poetry for dependency management
+- add Dockerfile and docker-compose
